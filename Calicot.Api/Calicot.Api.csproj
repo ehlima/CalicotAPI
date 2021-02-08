@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Calicot.Api</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Calicot.Commun\Calicot.Commun.csproj" />
+    <ProjectReference Include="..\Calicot.Service\Calicot.Service.csproj" />
+    <ProjectReference Include="..\Calicot.Type\Calicot.Type.csproj" />
+  </ItemGroup>
+
+
+</Project>

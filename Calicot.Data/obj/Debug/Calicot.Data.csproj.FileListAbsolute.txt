@@ -1,0 +1,6 @@
+C:\Users\Eric\Documents\8 - Cofomo\AzureChallenge\Calicot.Azure\calicot-netCore\Calicot.Data\bin\Debug\Calicot.Data.dll
+C:\Users\Eric\Documents\8 - Cofomo\AzureChallenge\Calicot.Azure\calicot-netCore\Calicot.Data\bin\Debug\Calicot.Data.pdb
+C:\Users\Eric\Documents\8 - Cofomo\AzureChallenge\Calicot.Azure\calicot-netCore\Calicot.Data\obj\Debug\Calicot.Data.csprojAssemblyReference.cache
+C:\Users\Eric\Documents\8 - Cofomo\AzureChallenge\Calicot.Azure\calicot-netCore\Calicot.Data\obj\Debug\Calicot.Data.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\8 - Cofomo\AzureChallenge\Calicot.Azure\calicot-netCore\Calicot.Data\obj\Debug\Calicot.Data.dll
+C:\Users\Eric\Documents\8 - Cofomo\AzureChallenge\Calicot.Azure\calicot-netCore\Calicot.Data\obj\Debug\Calicot.Data.pdb

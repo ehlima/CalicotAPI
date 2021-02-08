@@ -1,0 +1,131 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Calicot.Commun/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Calicot.Commun.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Calicot.Commun.dll": {}
+        }
+      },
+      "Calicot.Service/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Calicot.Type": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Calicot.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Calicot.Service.dll": {}
+        }
+      },
+      "Calicot.Type/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Calicot.Type.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Calicot.Type.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calicot.Commun/1.0.0": {
+      "type": "project",
+      "path": "../Calicot.Commun/Calicot.Commun.csproj",
+      "msbuildProject": "../Calicot.Commun/Calicot.Commun.csproj"
+    },
+    "Calicot.Service/1.0.0": {
+      "type": "project",
+      "path": "../Calicot.Service/Calicot.Service.csproj",
+      "msbuildProject": "../Calicot.Service/Calicot.Service.csproj"
+    },
+    "Calicot.Type/1.0.0": {
+      "type": "project",
+      "path": "../Calicot.Type/Calicot.Type.csproj",
+      "msbuildProject": "../Calicot.Type/Calicot.Type.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Calicot.Commun >= 1.0.0",
+      "Calicot.Service >= 1.0.0",
+      "Calicot.Type >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Eric\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Eric\\Documents\\8 - Cofomo\\Calicot-AzureChallenge\\CalicotAPI\\Calicot.Api\\Calicot.Api.csproj",
+      "projectName": "Calicot.Api",
+      "projectPath": "C:\\Users\\Eric\\Documents\\8 - Cofomo\\Calicot-AzureChallenge\\CalicotAPI\\Calicot.Api\\Calicot.Api.csproj",
+      "packagesPath": "C:\\Users\\Eric\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Eric\\Documents\\8 - Cofomo\\Calicot-AzureChallenge\\CalicotAPI\\Calicot.Api\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Eric\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Eric\\Documents\\8 - Cofomo\\Calicot-AzureChallenge\\CalicotAPI\\Calicot.Commun\\Calicot.Commun.csproj": {
+              "projectPath": "C:\\Users\\Eric\\Documents\\8 - Cofomo\\Calicot-AzureChallenge\\CalicotAPI\\Calicot.Commun\\Calicot.Commun.csproj"
+            },
+            "C:\\Users\\Eric\\Documents\\8 - Cofomo\\Calicot-AzureChallenge\\CalicotAPI\\Calicot.Service\\Calicot.Service.csproj": {
+              "projectPath": "C:\\Users\\Eric\\Documents\\8 - Cofomo\\Calicot-AzureChallenge\\CalicotAPI\\Calicot.Service\\Calicot.Service.csproj"
+            },
+            "C:\\Users\\Eric\\Documents\\8 - Cofomo\\Calicot-AzureChallenge\\CalicotAPI\\Calicot.Type\\Calicot.Type.csproj": {
+              "projectPath": "C:\\Users\\Eric\\Documents\\8 - Cofomo\\Calicot-AzureChallenge\\CalicotAPI\\Calicot.Type\\Calicot.Type.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
