@@ -8,10 +8,10 @@ namespace Calicot.Type
 {
     public class ProductModel
     {
-        public int? productId { get; set; }
-        public string nom { get; set; }
-        public string description { get; set; }
-        public int prix { get; set; }
-        public string photoUrl { get; set; }
+        public int? ProductId { get; set; }
+        public string Nom { get; set; }
+        public string Description { get; set; }
+        public int Prix { get; set; }
+        public string PhotoUrl { get; set; }
     }
 }

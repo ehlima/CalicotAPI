@@ -81,6 +81,25 @@
         "net472": {}
       }
     },
+    "C:\\Users\\Eric\\Documents\\8 - Cofomo\\Calicot-AzureChallenge\\CalicotAPI\\Calicot.Data\\Calicot.Data.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Eric\\Documents\\8 - Cofomo\\Calicot-AzureChallenge\\CalicotAPI\\Calicot.Data\\Calicot.Data.csproj",
+        "projectName": "Calicot.Data",
+        "projectPath": "C:\\Users\\Eric\\Documents\\8 - Cofomo\\Calicot-AzureChallenge\\CalicotAPI\\Calicot.Data\\Calicot.Data.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Eric\\Documents\\8 - Cofomo\\Calicot-AzureChallenge\\CalicotAPI\\Calicot.Type\\Calicot.Type.csproj": {
+                "projectPath": "C:\\Users\\Eric\\Documents\\8 - Cofomo\\Calicot-AzureChallenge\\CalicotAPI\\Calicot.Type\\Calicot.Type.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "C:\\Users\\Eric\\Documents\\8 - Cofomo\\Calicot-AzureChallenge\\CalicotAPI\\Calicot.Service\\Calicot.Service.csproj": {
       "restore": {
         "projectUniqueName": "C:\\Users\\Eric\\Documents\\8 - Cofomo\\Calicot-AzureChallenge\\CalicotAPI\\Calicot.Service\\Calicot.Service.csproj",
@@ -89,6 +108,9 @@
         "frameworks": {
           "net472": {
             "projectReferences": {
+              "C:\\Users\\Eric\\Documents\\8 - Cofomo\\Calicot-AzureChallenge\\CalicotAPI\\Calicot.Data\\Calicot.Data.csproj": {
+                "projectPath": "C:\\Users\\Eric\\Documents\\8 - Cofomo\\Calicot-AzureChallenge\\CalicotAPI\\Calicot.Data\\Calicot.Data.csproj"
+              },
               "C:\\Users\\Eric\\Documents\\8 - Cofomo\\Calicot-AzureChallenge\\CalicotAPI\\Calicot.Type\\Calicot.Type.csproj": {
                 "projectPath": "C:\\Users\\Eric\\Documents\\8 - Cofomo\\Calicot-AzureChallenge\\CalicotAPI\\Calicot.Type\\Calicot.Type.csproj"
               }

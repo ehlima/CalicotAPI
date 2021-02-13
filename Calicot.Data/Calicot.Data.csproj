@@ -45,5 +45,11 @@
     <Compile Include="ProductDataService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Calicot.Type\Calicot.Type.csproj">
+      <Project>{56098e06-a27f-4db5-b031-1d5956fd5ea8}</Project>
+      <Name>Calicot.Type</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

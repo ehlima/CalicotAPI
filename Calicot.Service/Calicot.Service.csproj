@@ -45,6 +45,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Calicot.Data\Calicot.Data.csproj">
+      <Project>{0530d62e-4496-4e73-ad17-91d542a54b68}</Project>
+      <Name>Calicot.Data</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Calicot.Type\Calicot.Type.csproj">
       <Project>{56098e06-a27f-4db5-b031-1d5956fd5ea8}</Project>
       <Name>Calicot.Type</Name>

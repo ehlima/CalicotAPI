@@ -3,3 +3,9 @@ C:\Users\Eric\Documents\8 - Cofomo\AzureChallenge\Calicot.Azure\calicot-netCore\
 C:\Users\Eric\Documents\8 - Cofomo\AzureChallenge\Calicot.Azure\calicot-netCore\Calicot.Type\obj\Debug\Calicot.Type.csproj.CoreCompileInputs.cache
 C:\Users\Eric\Documents\8 - Cofomo\AzureChallenge\Calicot.Azure\calicot-netCore\Calicot.Type\obj\Debug\Calicot.Type.dll
 C:\Users\Eric\Documents\8 - Cofomo\AzureChallenge\Calicot.Azure\calicot-netCore\Calicot.Type\obj\Debug\Calicot.Type.pdb
+C:\Users\Eric\Documents\8 - Cofomo\Calicot-AzureChallenge\CalicotAPI\Calicot.Type\bin\Debug\Calicot.Type.dll
+C:\Users\Eric\Documents\8 - Cofomo\Calicot-AzureChallenge\CalicotAPI\Calicot.Type\bin\Debug\Calicot.Type.pdb
+C:\Users\Eric\Documents\8 - Cofomo\Calicot-AzureChallenge\CalicotAPI\Calicot.Type\obj\Debug\Calicot.Type.csprojAssemblyReference.cache
+C:\Users\Eric\Documents\8 - Cofomo\Calicot-AzureChallenge\CalicotAPI\Calicot.Type\obj\Debug\Calicot.Type.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\8 - Cofomo\Calicot-AzureChallenge\CalicotAPI\Calicot.Type\obj\Debug\Calicot.Type.dll
+C:\Users\Eric\Documents\8 - Cofomo\Calicot-AzureChallenge\CalicotAPI\Calicot.Type\obj\Debug\Calicot.Type.pdb

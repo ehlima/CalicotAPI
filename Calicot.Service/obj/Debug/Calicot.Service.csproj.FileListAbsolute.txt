@@ -7,3 +7,14 @@ C:\Users\Eric\Documents\8 - Cofomo\AzureChallenge\Calicot.Azure\calicot-netCore\
 C:\Users\Eric\Documents\8 - Cofomo\AzureChallenge\Calicot.Azure\calicot-netCore\Calicot.Service\bin\Debug\Calicot.Type.dll
 C:\Users\Eric\Documents\8 - Cofomo\AzureChallenge\Calicot.Azure\calicot-netCore\Calicot.Service\bin\Debug\Calicot.Type.pdb
 C:\Users\Eric\Documents\8 - Cofomo\AzureChallenge\Calicot.Azure\calicot-netCore\Calicot.Service\obj\Debug\Calicot.Service.csproj.CopyComplete
+C:\Users\Eric\Documents\8 - Cofomo\Calicot-AzureChallenge\CalicotAPI\Calicot.Service\bin\Debug\Calicot.Service.dll
+C:\Users\Eric\Documents\8 - Cofomo\Calicot-AzureChallenge\CalicotAPI\Calicot.Service\bin\Debug\Calicot.Service.pdb
+C:\Users\Eric\Documents\8 - Cofomo\Calicot-AzureChallenge\CalicotAPI\Calicot.Service\bin\Debug\Calicot.Data.dll
+C:\Users\Eric\Documents\8 - Cofomo\Calicot-AzureChallenge\CalicotAPI\Calicot.Service\bin\Debug\Calicot.Type.dll
+C:\Users\Eric\Documents\8 - Cofomo\Calicot-AzureChallenge\CalicotAPI\Calicot.Service\bin\Debug\Calicot.Data.pdb
+C:\Users\Eric\Documents\8 - Cofomo\Calicot-AzureChallenge\CalicotAPI\Calicot.Service\bin\Debug\Calicot.Type.pdb
+C:\Users\Eric\Documents\8 - Cofomo\Calicot-AzureChallenge\CalicotAPI\Calicot.Service\obj\Debug\Calicot.Service.csprojAssemblyReference.cache
+C:\Users\Eric\Documents\8 - Cofomo\Calicot-AzureChallenge\CalicotAPI\Calicot.Service\obj\Debug\Calicot.Service.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Documents\8 - Cofomo\Calicot-AzureChallenge\CalicotAPI\Calicot.Service\obj\Debug\Calicot.Service.csproj.CopyComplete
+C:\Users\Eric\Documents\8 - Cofomo\Calicot-AzureChallenge\CalicotAPI\Calicot.Service\obj\Debug\Calicot.Service.dll
+C:\Users\Eric\Documents\8 - Cofomo\Calicot-AzureChallenge\CalicotAPI\Calicot.Service\obj\Debug\Calicot.Service.pdb

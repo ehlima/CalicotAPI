@@ -1,4 +1,5 @@
-﻿using Calicot.Type;
+﻿using Calicot.Data.Mock;
+using Calicot.Type;
 using Calicot.Type.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -14,7 +15,8 @@ namespace Calicot.Service
 
         public ProductService()
         {
-            listOfProducts = new List<ProductModel>();
+            
+            listOfProducts = MockProducts.mocklistProducts;
         }
 
         public List<ProductModel> GetAllProducts()
@@ -24,27 +26,27 @@ namespace Calicot.Service
 
         public ProductModel GetProduct(int productId)
         {
-            var product = listOfProducts.Find(x => x.productId == productId);
+            var product = listOfProducts.Find(x => x.ProductId == productId);
             return product;
         }
 
         public ProductModel AddProduct(ProductModel product)
         {
-            product.productId = listOfProducts.Count + 1;
+            product.ProductId = listOfProducts.Count + 1;
             listOfProducts.Add(product);
             return product;
         }
 
         public ProductModel UpdateProduct(ProductModel product)
         {
-            var index = listOfProducts.FindIndex(x => x.productId == product.productId);
+            var index = listOfProducts.FindIndex(x => x.ProductId == product.ProductId);
             listOfProducts[index] = product;
             return product;
         }
 
         public bool DeleteProduct(int productId)
         {
-            var index = listOfProducts.FindIndex(x => x.productId == productId);
+            var index = listOfProducts.FindIndex(x => x.ProductId == productId);
             listOfProducts.RemoveAt(index);
             return true;
         }

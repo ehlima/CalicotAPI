@@ -11,9 +11,22 @@
           "bin/placeholder/Calicot.Commun.dll": {}
         }
       },
+      "Calicot.Data/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Calicot.Type": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Calicot.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Calicot.Data.dll": {}
+        }
+      },
       "Calicot.Service/1.0.0": {
         "type": "project",
         "dependencies": {
+          "Calicot.Data": "1.0.0",
           "Calicot.Type": "1.0.0"
         },
         "compile": {
@@ -39,6 +52,11 @@
       "type": "project",
       "path": "../Calicot.Commun/Calicot.Commun.csproj",
       "msbuildProject": "../Calicot.Commun/Calicot.Commun.csproj"
+    },
+    "Calicot.Data/1.0.0": {
+      "type": "project",
+      "path": "../Calicot.Data/Calicot.Data.csproj",
+      "msbuildProject": "../Calicot.Data/Calicot.Data.csproj"
     },
     "Calicot.Service/1.0.0": {
       "type": "project",

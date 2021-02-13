@@ -325,8 +325,20 @@
           "Calicot.Commun.dll": {}
         }
       },
+      "Calicot.Data/1.0.0": {
+        "dependencies": {
+          "Calicot.Type": "1.0.0"
+        },
+        "runtime": {
+          "Calicot.Data.dll": {}
+        },
+        "compile": {
+          "Calicot.Data.dll": {}
+        }
+      },
       "Calicot.Service/1.0.0": {
         "dependencies": {
+          "Calicot.Data": "1.0.0",
           "Calicot.Type": "1.0.0"
         },
         "runtime": {
@@ -2045,6 +2057,11 @@
       "sha512": ""
     },
     "Calicot.Commun/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calicot.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
